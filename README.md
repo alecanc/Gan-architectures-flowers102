@@ -1,4 +1,4 @@
-# 🌸 GAN Architectures on Oxford Flowers 102
+# GAN Architectures on Oxford Flowers 102
 
 > Implementation and comparison of **DCGAN**, **CGAN**, **WGAN-GP** and **WCGAN-GP** for unconditional and conditional flower image generation.
 
